@@ -2,7 +2,7 @@
 
 Before starting a game:
 
-<img width="408" alt="image" src="https://github.com/DeeptiShukla/Blackjack_game/assets/21026441/c0f3ab89-4919-4c01-b31c-ca1a4eb7720b">
+<img width="379" alt="image" src="https://github.com/DeeptiShukla/Blackjack_game/assets/21026441/c0f3ab89-4919-4c01-b31c-ca1a4eb7720b">
 
 Playing a game:
 
